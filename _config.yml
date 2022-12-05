@@ -102,7 +102,10 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: <repository url> #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: gh-pages
+  message: [message]
 
 aplayer:
   meting: true

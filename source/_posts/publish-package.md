@@ -4,8 +4,8 @@ title: 从零开始发布自己的NPM包
 date: 2022-12-05 15:48:56
 keywords: npm npmjs NPM 从零开始发布自己的NPM包
 description: 从零开始发布自己的NPM包 NPM的全称是Node Package Manager，是一个NodeJS包管理和分发工具，已经成为了非官方的发布Node模块（包）的标准。
-top_img: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/202212061614344.jpg
-cover: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/202212061614344.jpg
+top_img: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/3d1a51e4-3a0c-4d21-8043-2d35c1fbc64e.jpg
+cover: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/3d1a51e4-3a0c-4d21-8043-2d35c1fbc64e.jpg
 ---
 
 {% note 'fa-brands fa-npm' modern %}

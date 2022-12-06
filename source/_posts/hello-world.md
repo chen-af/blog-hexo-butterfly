@@ -4,8 +4,8 @@ title: Hello World
 date: 2022-12-05 13:50:00
 keywords: Hello World 你好世界
 description: Hello World 你好世界
-top_img: /images/hello-world.jpg
-cover: /images/hello-world.jpg
+top_img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614342.jpg
+cover: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614342.jpg
 ---
 
 {% note 'fa-solid fa-laptop-code' modern %}
@@ -33,7 +33,7 @@ C语言是世界上最重要的编程语言。
 它的语法和书写习惯影响了无数其他编程语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 /* Hello world in C */
 
 #include <stdio.h>
@@ -53,7 +53,7 @@ Java语言是世界上最流行的编程语言，没有之一。
 它的特殊之处在于它经过专门设计，你只需要编写一次代码，然后就可以在任何操作系统上运行。
 {% endnote %}
 
-``` MARKDOWN
+```
 // Hello World in Java
 
 class HelloWorld {
@@ -73,7 +73,7 @@ Python
 它非常流行，并常用于网站和人工智能（AI）任务等。
 {% endnote %}
 
-``` MARKDOWN
+```
 # Hello world in Python 3
 
 print("Hello World")
@@ -88,7 +88,7 @@ R
 一种出色的统计语言，也是科学界的流行选择。
 {% endnote %}
 
-``` MARKDOWN
+```
 # Hello World in R
 
 cat("Hello world\n")
@@ -104,7 +104,7 @@ JavaScript是世界上最常见的编程语言。
 几乎所有的Web浏览器都在使用这种编程语言，这也使JavaScript成为WEB交互的标准。
 {% endnote %}
 
-``` MARKDOWN
+```
 // Hello world in JavaScript
 
 console.log("Hello World");
@@ -119,7 +119,7 @@ C++
 性能接近C，并在许多重要项目（例如Chrome浏览器）中使用。C ++旨在使一种语言更易于构建大型项目，同时仍保持快速和高效。
 {% endnote %}
 
-``` MARKDOWN
+```
 // Hello World in C++ (pre-ISO)
 
 #include <iostream.h>
@@ -140,7 +140,7 @@ Go
 Go（又称Golang）是Google开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 // Hello world in Go
 
 package main
@@ -160,7 +160,7 @@ HTML
 HTML的全称为超文本标记语言，是一种标记语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 <HTML>
     <!-- Hello World in HTML -->
     <HEAD>
@@ -181,7 +181,7 @@ MATLAB
 MATLAB是美国MathWorks公司出品的商业数学软件，用于数据分析、无线通信、深度学习、图像处理与计算机视觉、信号处理、量化金融与风险管理、机器人，控制系统等领域。
 {% endnote %}
 
-``` MARKDOWN
+```
 % Hello World in MATLAB.
 
 disp('Hello World');
@@ -196,7 +196,7 @@ Node.js
 与其说是一种语言（使用的语言是JavaScript），不如说是一种运行时环境，它可以在服务器而不是浏览器上运行JavaScript。目的是证明异步编程对于现代多核CPU更好。
 {% endnote %}
 
-``` MARKDOWN
+```
 /* Hello world in Node.js */
 
 var sys = require('sys');
@@ -212,7 +212,7 @@ RUBY
 旨在成为一种高效有趣的语言来使用，强调人的需求远高于计算机的需求。Rails Web框架是由Ruby编写的，对Web框架设计产生了巨大影响。Ruby仍然是用于创建网站的流行语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 puts 'Hello World!'
 ```
 
@@ -226,7 +226,7 @@ Scratch
 全世界数以百万计的学校都使用这两种语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 say Hello, World!
 ```
 
@@ -239,7 +239,7 @@ Swift
 苹果公司开发编程语言，正在推广并替代Objective-C在其手机平台上使用。
 {% endnote %}
 
-``` MARKDOWN
+```
 println("Hello, world!")
 ```
 
@@ -252,7 +252,7 @@ Perl
 Perl在文本处理方面非常强大。在动态网站的早期创建网站的一种流行选择。
 {% endnote %}
 
-``` MARKDOWN
+```
 print "Hello, World!\n";
 ```
 
@@ -265,7 +265,7 @@ PHP
 PHP是用于构建网站后端的最流行的语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 <?php echo "Hello, World";
 ```
 
@@ -278,7 +278,7 @@ BASH (UNIX SHELL)
 用于在命令行与Linux和Unix系统进行交互和管理的脚本语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 #!/bin/bash
 STR="Hello World!"
 echo $STR
@@ -294,7 +294,7 @@ Basic于1964年首次发布，并在80年代初达到鼎盛时期。当时计算
 Basic易于学习并小巧的特点在当时的硬件上还是非常理想的。
 {% endnote %}
 
-``` MARKDOWN
+```
 10 REM Hello World in BASIC
 20 PRINT "Hello World!"
 ```
@@ -308,7 +308,7 @@ PASCAL
 80年代和90年代流行的语言，特别是用于编程教学的语言。它发生了很大的变化，并且还是Delphi RAD工具集中使用的语言。
 {% endnote %}
 
-``` MARKDOWN
+```
 program HelloWorld(output);
 begin
   Write('Hello, world!')
@@ -324,7 +324,7 @@ FORTRAN
 它创建于1950年代，可在大型计算机上运行，​​非常适合数字和科学工作。它已成为当今仍在使用的科学界的标准。
 {% endnote %}
 
-``` MARKDOWN
+```
 program helloworld
      print *, "Hello world!"
 end program helloworld
@@ -339,7 +339,7 @@ COBOL
 在大型机计算时代曾经非常流行。现在它正在消失，向那个时代致敬。
 {% endnote %}
 
-``` MARKDOWN
+```
 * Hello World in COBOL
 
 *****************************

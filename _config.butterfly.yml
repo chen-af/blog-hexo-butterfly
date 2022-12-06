@@ -17,12 +17,12 @@ menu:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
-highlight_lang: true # show the code language
+highlight_lang: false # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
-highlight_height_limit: false # unit: px
-code_word_wrap: false
+highlight_height_limit: 200 # unit: px
+code_word_wrap: true
 
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
@@ -77,18 +77,18 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/favicon.jpg
+favicon: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614341.jpg
 
 # Avatar (頭像)
 avatar:
-  img: /images/avatar.jpg
+  img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614339.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: /images/index.gif
+index_img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614343.gif
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -113,7 +113,7 @@ category_img:
 # format:
 #  - category name: xxxxx
 category_per_img:
-  解忧杂货铺: /images/categories-store.jpg
+  解忧杂货铺: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614340.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)

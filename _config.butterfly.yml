@@ -77,18 +77,18 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614341.jpg
+favicon: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/6415aa55-26dd-48e0-8052-a68e04c857ef.jpg
 
 # Avatar (頭像)
 avatar:
-  img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614339.jpg
+  img: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/adc06f0e-1fca-4da4-99eb-1eca9f9c9f0f.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614343.gif
+index_img: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/576798e3-dd7d-44e1-bcb5-fd8a145e958a.gif
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -113,7 +113,7 @@ category_img:
 # format:
 #  - category name: xxxxx
 category_per_img:
-  解忧杂货铺: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614340.jpg
+  解忧杂货铺: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/028e4d08-fe50-4820-b431-6ab9fd83ecd7.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)

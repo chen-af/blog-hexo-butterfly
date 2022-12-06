@@ -4,8 +4,8 @@ title: 从零开始发布自己的NPM包
 date: 2022-12-05 15:48:56
 keywords: npm npmjs NPM 从零开始发布自己的NPM包
 description: 从零开始发布自己的NPM包 NPM的全称是Node Package Manager，是一个NodeJS包管理和分发工具，已经成为了非官方的发布Node模块（包）的标准。
-top_img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614344.jpg
-cover: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614344.jpg
+top_img: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/202212061614344.jpg
+cover: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/202212061614344.jpg
 ---
 
 {% note 'fa-brands fa-npm' modern %}
@@ -47,7 +47,7 @@ npm adduser
 4. 输入邮箱
 5. 输入邮箱验证码
 
-![](http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061716874.png)
+![](https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/b35bd90a-6c63-4fb8-b402-0558325ee641.png)
 
 ---
 
@@ -96,7 +96,7 @@ cd hello-world
 npm init
 ```
 
-![](http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061624632.png)
+![](https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/57a58852-8672-40d5-9f97-fc2d6b81e4d3.png)
 
 ---
 
@@ -125,11 +125,11 @@ package.json 重点字段说明
 npm publish --access public
 ```
 
-![](http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061744621.png)
+![](https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/b61f948a-d104-4f34-8d54-9314f538f37d.png)
 
 2. 前往 [NPM](https://www.npmjs.com/search?q=%40chen-af) 查看发布的包
 
-![](http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061756936.png)
+![](https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/346bd9e5-8b01-42f0-ac5f-48bd1f1c90b6.png)
 
 ---
 

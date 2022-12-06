@@ -4,8 +4,8 @@ title: Hello World
 date: 2022-12-05 13:50:00
 keywords: Hello World 你好世界
 description: Hello World 你好世界
-top_img: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614342.jpg
-cover: http://rmgmc90iv.bkt.clouddn.com/blog-hexo-butterfly/202212061614342.jpg
+top_img: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/bce69d22-b969-4ce1-ad77-c83e8f9c94c5.jpg
+cover: https://mp-d7930f7b-df5c-4ab2-9b66-d51c38b2bf6c.cdn.bspapp.com/cloudstorage/bce69d22-b969-4ce1-ad77-c83e8f9c94c5.jpg
 ---
 
 {% note 'fa-solid fa-laptop-code' modern %}
